@@ -5,26 +5,26 @@ const data = [
     name: "Melissa Tatcher",
     id:"1",
     info: "Marketing Expert",
-    picture: "/public/assets/images/team/team-01.png",
+    picture: "/assets/images/team/team-01.png",
   },
 
   {
     name: "Stuard Ferrel",
     id:"2",
     info: "Digital Marketer",
-    picture: "/public/assets/images/team/team-02.png",
+    picture: "/assets/images/team/team-02.png",
   },
   {
     name: "Eva Hudson",
     id:"3",
     info: "Creative Designer",
-    picture: "/public/assets/images/team/team-03.png",
+    picture: "/assets/images/team/team-03.png",
   },
   {
     name: "Jackie Sanders",
     id:"4",
     info: "Founder of Facebook",
-    picture: "/public/assets/images/team/team-04.png",
+    picture: "/assets/images/team/team-04.png",
   },
 ];
 function MemberCard({ name, info, picture }) {

@@ -4,15 +4,13 @@ import PropertyCard from "./PropertyCard";
 const data = [
   {
     id: "1",
-    image:
-      "/public/assets/images/houses/braden-collum-Q_eVb6Pajl8-unsplash.jpg",
+    image: "/assets/images/houses/braden-collum-Q_eVb6Pajl8-unsplash.jpg",
     name: "HomesteadHarbor Realty",
     price: "2000",
   },
   {
     id: "2",
-    image:
-      "/public/assets/images/houses//czapp-botond-O46vl5NMGKw-unsplash.jpg",
+    image: "/assets/images/houses//czapp-botond-O46vl5NMGKw-unsplash.jpg",
     name: "UrbanNest Pro",
     price: "2000",
   },
@@ -21,21 +19,19 @@ const data = [
     name: "LandmarkLane Estates",
     price: "2000",
     image:
-      "/public/assets/images/houses/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg",
+      "/assets/images/houses/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg",
   },
   {
     id: "4",
     name: "InfinityGrove Realty",
     price: "2000",
-    image:
-      "/public/assets/images/houses/hardik-pandya-HjzL2rJyGW4-unsplash.jpg",
+    image: "/assets/images/houses/hardik-pandya-HjzL2rJyGW4-unsplash.jpg",
   },
   {
     id: "5",
     name: "DreamLoom Realty",
     price: "2000",
-    image:
-      "/public/assets/images/houses/jamie-whiffen-yXBeuNhmbNY-unsplash.jpg",
+    image: "/assets/images/houses/jamie-whiffen-yXBeuNhmbNY-unsplash.jpg",
   },
 ];
 
